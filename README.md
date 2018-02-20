@@ -1,0 +1,2 @@
+# wise-thought
+Starting github.
